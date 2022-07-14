@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="content_desc_general_image">general image</string>
+    <string name="content_desc_star">star</string>
 </resources>
